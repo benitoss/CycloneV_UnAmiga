@@ -3,14 +3,14 @@
 Cyxclone V UnAmiga is a Amiga 1200 computer in a FPGA board. The main core is based in a minimig core of MiST ported  by **Jepalza** to this FPGA.
 There is a version AGA of the UnAmiga 1200. 
 
-![alt text](https://vignette.wikia.nocookie.net/unamiga/images/0/04/Photo_2018-07-23_22-51-46.jpg)
+![alt text](https://github.com/benitoss/CycloneV_UnAmiga/blob/master/Cyclone_V_UnAmiga.jpg)
 
 
 **Main characteristics:**<BR>
 - FPGA BOARD CYCLONE V 5CEFA2F23 <BR>
 - 25K logic cells <BR>
 - SDRAM 256Mbit <BR>
-- SRAM 32 MB <B>
+- SRAM 32 MB <BR>
 - SD socket.<BR>
 - PS/2 Keyboard.<BR>
 - PS/2 mouse.<BR>
