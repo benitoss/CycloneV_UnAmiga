@@ -2,8 +2,6 @@
 
 This is a port of NES to the Altera Cyclone IV board of UnAmiga from the [Multicore 2](https://gitlab.com/victor.trucco/Multicore) of Victor Trucco.
 
-**IMPORTANT:** This Core needs the SRAM addon from [Antonio Villena's store](https://www.antoniovillena.es/store/)
-
 **UPDATED: The actual core has been updated to implement the Start and 
 Select buttons in the Keyboard. Enjoy it**
 
