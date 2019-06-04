@@ -1,7 +1,6 @@
 # Cyclone V UnAmiga FPGA
 
-Cyxclone V UnAmiga is a Amiga 1200 computer in a FPGA board. The main core is based in a minimig core of MiST ported  by **Jepalza** to this FPGA.
-There is a version AGA of the UnAmiga 1200. 
+Cyclone V UnAmiga is an Amiga 1200 computer in a FPGA board. The main core is based in a minimig core of MiST ported  by **Jepalza** to this FPGA. There is a version AGA of the UnAmiga 1200. 
 
 ![alt text](https://github.com/benitoss/CycloneV_UnAmiga/blob/master/Cyclone_V_UnAmiga.jpg)
 
