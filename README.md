@@ -8,8 +8,8 @@ Cyclone V UnAmiga is an Amiga 1200 computer in a FPGA board. The main core is ba
 **Main characteristics:**<BR>
 - FPGA BOARD CYCLONE V 5CEFA2F23 <BR>
 - 25K logic cells <BR>
-- SDRAM 256Mbit <BR>
-- SRAM 32 MB <BR>
+- SRAM 256Mbit <BR>
+- SDRAM 32 MB <BR>
 - SD socket.<BR>
 - PS/2 Keyboard.<BR>
 - PS/2 mouse.<BR>
